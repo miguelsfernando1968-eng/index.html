@@ -34,4 +34,4 @@ El sitio incluye un contador simple de visitas para medir el alcance del servici
 
 ## 👨‍💻 Autor
 **Miguel Silveira**  
-Desarrollado con ayuda de **IA (ChatGPT)** para el proyecto *Traslados — LLegamos YA*.
+
